@@ -1,13 +1,13 @@
 # encoding: utf-8
 
 Gem::Specification.new do |s|
-  s.name          = "jekyll-theme-midnight"
+  s.name          = "Coding All Hours"
   s.version       = "0.0.4"
   s.license       = "CC0-1.0"
-  s.authors       = ["Matt Graham", "GitHub, Inc."]
+  s.authors       = ["Kevin Rickis"]
   s.email         = ["opensource+jekyll-theme-midnight@github.com"]
-  s.homepage      = "https://github.com/pages-themes/midnight"
-  s.summary       = "Midnight is a Jekyll theme for GitHub Pages"
+  s.homepage      = "https://codingallhours.co.uk"
+  s.summary       = "ZX Spectrum Development on Mac and other Speccy Stuff"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
